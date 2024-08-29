@@ -2,11 +2,11 @@
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bunyips-Rabone&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bunyips-Rabone&show_icons=true&theme=synthwave)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyips-Rabone&layout=compact&theme=gruvbox)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyips-Rabone&layout=compact&theme=synthwave)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Bunyips-Rabone&theme=gruvbox)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Bunyips-Rabone&theme=synthwave)
 
 <!--
 **Bunyips-Rabone/Bunyips-Rabone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
